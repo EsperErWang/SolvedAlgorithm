@@ -20,7 +20,7 @@ The answers are all the most understandable and the time and space complexity ca
 
 ​			Binary search problem should be pay attention that the value in the loop may overflow, so this problem and 367 should use long. 
 
-[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)		
+[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)	[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/367.md)	
 
 ​		
 
