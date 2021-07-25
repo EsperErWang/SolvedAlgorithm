@@ -10,7 +10,7 @@ The answers are all the most understandable and the time and space complexity ca
 
 ### Easy:
 
-[278. First Bad Version](https://leetcode.com/problems/first-bad-version)\	\	[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/278.md)
+[278. First Bad Version](https://leetcode.com/problems/first-bad-version)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/278.md)
 
 [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)		[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/374.md)
 
