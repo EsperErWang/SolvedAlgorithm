@@ -37,7 +37,7 @@ The answers are all the most understandable and the time and space complexity ca
 
 <details>
   <summary>Note of 33</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33, 81, 153, 154 can be solved in the same idea. 154 is a hard problem, but it is the pre-problem of 81.</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the elements are not necessarily with ，。《》<b>distinct</b> values, <b>every</b> binary search loop should be pay attention to <b>nums[mid] == nums[last]</b>(or <b>nums[mid] == nums[first]</b>, Every loop just choose one edge to check). When this situation happens, we can <b>only drop one</b> element from the nums, that is the last(or the first). 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;33, 81, 153, 154 can be solved in the same idea. 154 is a hard problem, but it is the pre-problem of 81.</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the elements are not necessarily with <b>distinct</b> values, <b>every</b> binary search loop should be pay attention to <b>nums[mid] == nums[last]</b>(or <b>nums[mid] == nums[first]</b>, Every loop just choose one edge to check). When this situation happens, we can <b>only drop one</b> element from the nums, that is the last(or the first). 
 </details>
 
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/33.md)
