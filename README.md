@@ -14,9 +14,12 @@ The answers are all the most understandable and the time and space complexity ca
 
 [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/35.md)
 
-[69. Sqrt(x)](https://leetcode.com/problems/sqrtx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/69.md)
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/69.md)		<details>
+  <summary>note</summary>
+    Binary search problem should be pay attention that the value in the loop may overflow, so this problem and 367 should use long. 
+</details>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binary search problem should be pay attention that the value in the loop may overflow, so this problem and 367 should use long. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/367.md)
 
