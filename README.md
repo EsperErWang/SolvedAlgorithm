@@ -83,13 +83,32 @@ The answers are all the most understandable and the time and space complexity ca
 
 ## Easy
 
+<details>
+  <summary>Note of 283</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;283 and 75(medium) can be solved by setting multiple board, each board's left is the correct results, and in the loop we will not care about the board's right part.when the loop is over, we can make sure that the total result is right.  
+</details>
+
+
+
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/283.md)
+
 ## Medium
 
 [75. Sort Colors](https://leetcode.com/problems/sort-colors)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/75.md)
 
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/692.md)
+
+<details>
+  <summary>Note of 912</summary>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;912 is the basic problem of sorting algorithm, we should know how to implement all of them: bubble, selection, insertion, quick, merge. The theories of them can be found easily.
+</details>
 
 
-## Hard
+[912. Sort an Array](https://leetcode.com/problems/sort-an-array)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/912.md)
+
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/215.md)
+
+[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/451.md)
 
 
 
