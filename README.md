@@ -1,5 +1,7 @@
 
-[TOC]
+
+- [Binary Search (Tree) & Binary Reduction](#binary-search--tree----binary-reduction)
+- [Sorting Algorithm](#sorting-algorithm)
 
 This page is used to record the problems that I have been solved, and they are classified by types. 
 
