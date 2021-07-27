@@ -1,12 +1,13 @@
+
+[TOC]
+
 This page is used to record the problems that I have been solved, and they are classified by types. 
 
 The answers are all the most understandable and the time and space complexity can be accepted in the interview.
 
+#  Binary Search (Tree) & Binary Reduction
 
-
-##  Binary Search (Tree) & Binary Reduction:
-
-### Easy:
+## Easy
 
 [278. First Bad Version](https://leetcode.com/problems/first-bad-version)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/278.md)
 
@@ -20,12 +21,13 @@ The answers are all the most understandable and the time and space complexity ca
   <summary>Note of 69</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binary search problem should be pay attention that the value in the loop may overflow, so 69 and 367 should use long. 
 </details>
-
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/69.md)		
 
 [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/367.md)
 
-### Medium:
+[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/700.md)
+
+## Medium
 
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/34.md)
 
@@ -51,18 +53,39 @@ The answers are all the most understandable and the time and space complexity ca
   <summary>Note of 1011</summary>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1011, 410(hard), 1482, 1891 can be solved in the same idea. Try to find the possible result area, and then use the binary search to find the right result. 
 </details>
-
 [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/1011.md)
 
 [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/1482.md)
 
 [1891. Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/1891.md)
 
-### Hard:
+[658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/658.md)
+
+[702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/702.md)
+
+## Hard
 
 [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/154.md)
 
 [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/algorithm/blob/main/Binary%20Search%20(Tree)%20&%20Binary%20Reduction/410.md)
+
+
+
+
+
+# Sorting Algorithm
+
+## Easy
+
+## Medium
+
+[75. Sort Colors](https://leetcode.com/problems/sort-colors)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Solution](https://github.com/EsperErWang/SolvedAlgorithm/blob/main/Sorting%20Algorithm/75.md)
+
+
+
+## Hard
+
+
 
 ​		
 
